@@ -75,7 +75,7 @@
     <div class="row justify-content-center">
         <div class="col-md-8">
             <div class="">
-                <div><img class="cabecera-img" src="{{asset('images/Logo.png') }} " width="310px" height="120px"></div>
+                <div><img class="cabecera-img" src="{{asset('Images/Logo.png') }} " width="310px" height="120px"></div>
                 <h3 id="titulo"> Repositorio de investigaciones y publicaciones de Cuerpos Académicos </h3>
                 <div class="card-body">
                     <form method="POST" action="{{ route('login') }}">
